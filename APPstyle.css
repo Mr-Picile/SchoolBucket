@@ -11,7 +11,7 @@ input[type=button] {
   color: rgb(193, 148, 106);
   width: 300px;
   height: 100px;
-  font-family: 'Odibee Sans';
+  font-family: 'Odibee Sans', cursive;
 }
 input:hover{
   background-color: rgb(125, 120, 70);
@@ -23,11 +23,11 @@ body{
 }    /* do the h1 and h2 tags affect my slogan as well as the IDs, the code in w3 schools looks slightly different than what we normally use and it sometimes dosen't work when I put it in atom: is the w3 schools code a different style how do I make it work in my website  */
 h1{
   color: rgb(193, 148, 106);
-  font-family: 'Odibee Sans';
+  font-family: 'Odibee Sans', cursive;
 }
 h2{
   color: rgb(193, 148, 106);
-  font-family: 'Odibee Sans';
+  font-family: 'Odibee Sans', cursive;
 }
 #title{
   width: 100%;
@@ -62,7 +62,7 @@ h2{
   margin-bottom: 0px;
   color: rgb(193, 148, 106);
   font-size: 40px;
-  font-family: 'Odibee Sans';
+  font-family: 'Odibee Sans', cursive;
 }
 
 #slogan2{
@@ -76,7 +76,7 @@ h2{
   margin-bottom: 0px;
   color: rgb(193, 148, 106);
   font-size: 20px;
-  font-family: 'Odibee Sans';
+  font-family: 'Odibee Sans', cursive;
 }
 
 /*#aboutUs{
