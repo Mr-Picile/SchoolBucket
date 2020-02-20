@@ -15,7 +15,7 @@ input[type=button] {
 }
 input:hover{
   background-color: rgb(125, 120, 70);
-  color: black;
+  color: rgb(62, 68, 68);
 }
 body{
   background-color: rgb(64, 93, 39);
@@ -60,7 +60,7 @@ h2{
   padding-right: 0px;
   margin-top: 0px;
   margin-bottom: 0px;
-  color: rgb(193, 148, 106);
+  color: rgb(62, 68, 68);
   font-size: 40px;
   font-family: 'Odibee Sans', cursive;
 }
@@ -74,7 +74,7 @@ h2{
   padding-right: 0px;
   margin-top: 0px;
   margin-bottom: 0px;
-  color: rgb(193, 148, 106);
+  color: rgb(62, 68, 68);
   font-size: 20px;
   font-family: 'Odibee Sans', cursive;
 }
